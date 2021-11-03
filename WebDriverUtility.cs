@@ -8,7 +8,7 @@ using OpenQA.Selenium.Interactions;
 using OpenQA.Selenium.Support.UI;
 using ExpectedConditions = SeleniumExtras.WaitHelpers.ExpectedConditions;
 
-namespace PMUITestBase.Utilities
+namespace LambdaTest
 {
     public class WebDriverUtility
     {

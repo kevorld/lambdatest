@@ -1,5 +1,4 @@
 using OpenQA.Selenium;
-using PMUITestBase.Utilities;
 
 namespace LambdaTest
 {
